@@ -1,3 +1,3 @@
-Projeto criado para auxiliar quem inicia com o Selenium Webdriver.
+Projeto criado para auxiliar quem está iniciando com o Selenium Webdriver.
 
-Criado por M�rcio Souza
+Criado por Márcio Souza
